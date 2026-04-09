@@ -219,7 +219,7 @@ Todos los ítems relevantes deben aparecer con check verde (✓).
 ### 1. Clona el repositorio
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/camonayc/ceiba-fund-manager.git
 cd ceiba_technical_test
 ```
 
