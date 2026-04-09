@@ -30,7 +30,7 @@ El diseño es **totalmente responsivo** y se adapta automáticamente a escritori
 
 ---
 
-### Tablet (600px – 1023px)
+### Tablet (700px – 1023px)
 
 | Fondos disponibles | Mis fondos | Historial |
 |:---:|:---:|:---:|
@@ -38,7 +38,7 @@ El diseño es **totalmente responsivo** y se adapta automáticamente a escritori
 
 ---
 
-### Mobile (< 600px)
+### Mobile (< 700px)
 
 | Fondos disponibles | Mis fondos | Historial |
 |:---:|:---:|:---:|
@@ -333,7 +333,8 @@ Produce un flujo de datos unidireccional predecible, facilita el testing exhaust
 ### Diseño responsivo con breakpoints
 La app detecta el ancho de pantalla y cambia el layout completo:
 - **Desktop (≥ 1024px):** navegación lateral, historial en tabla, contenido expandido
-- **Mobile/Tablet (< 1024px):** navegación inferior, historial en lista
+- **Tablet (700px – 1023px):** navegación inferior, contenido adaptado
+- **Mobile (< 700px):** navegación inferior, historial en lista
 
 ### GetIt como service locator
 Permite registrar implementaciones concretas contra interfaces y sustituirlas por mocks en tests sin modificar el código fuente de las capas superiores.
