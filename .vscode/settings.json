@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    // "editor.guides.bracketPairs": true,
+    // "editor.guides.bracketPairsHorizontal": true,
+    // "editor.bracketPairColorization.enabled": true
+}
