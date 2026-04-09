@@ -1,5 +1,5 @@
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/layouts/desktop_layout.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/layouts/mobile_layout.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/layouts/desktop_layout.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/layouts/mobile_layout.dart';
 import 'package:flutter/material.dart';
 
 class AppShell extends StatelessWidget {

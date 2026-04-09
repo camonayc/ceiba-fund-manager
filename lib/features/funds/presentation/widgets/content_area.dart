@@ -1,6 +1,6 @@
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_bloc.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_event.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/error_banner.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_bloc.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_event.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/error_banner.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

@@ -1,5 +1,5 @@
-name: ceiba_technical_test
-description: "A new Flutter project."
+name: ceiba_fund_manager
+description: "Investment fund manager app for FPV and FIC Colombian funds."
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -10,7 +10,6 @@ environment:
 dependencies:
   cupertino_icons: ^1.0.8
   dartz: ^0.10.1
-  dio: ^5.9.2
   equatable: ^2.0.8
   flutter:
     sdk: flutter

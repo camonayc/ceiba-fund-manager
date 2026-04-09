@@ -1,10 +1,10 @@
-import 'package:ceiba_technical_test/core/service/dialog_service.dart';
-import 'package:ceiba_technical_test/features/funds/data/data_sources/funds_local_datasource.dart';
-import 'package:ceiba_technical_test/features/funds/data/repositories/funds_repository_impl.dart';
-import 'package:ceiba_technical_test/features/funds/domain/repositories/funds_repository.dart';
-import 'package:ceiba_technical_test/features/funds/domain/usecases/funds_usecases.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_bloc.dart';
-import 'package:ceiba_technical_test/routing/app_router.dart';
+import 'package:ceiba_fund_manager/core/service/dialog_service.dart';
+import 'package:ceiba_fund_manager/features/funds/data/data_sources/funds_local_datasource.dart';
+import 'package:ceiba_fund_manager/features/funds/data/repositories/funds_repository_impl.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/repositories/funds_repository.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/usecases/funds_usecases.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_bloc.dart';
+import 'package:ceiba_fund_manager/routing/app_router.dart';
 import 'package:get_it/get_it.dart';
 
 final GetIt sl = GetIt.instance;

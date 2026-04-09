@@ -1,6 +1,6 @@
-import 'package:ceiba_technical_test/features/funds/domain/entities/fund.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/subscription.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/transaction.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/fund.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/subscription.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/transaction.dart';
 import 'package:equatable/equatable.dart';
 
 enum FundsStatus { initial, loading, success, failure }

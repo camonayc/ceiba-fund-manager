@@ -1,10 +1,10 @@
-import 'package:ceiba_technical_test/core/di/injection_container.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_bloc.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_event.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/pages/available_funds_page.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/pages/history_page.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/pages/my_funds_page.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/layouts/app_shell.dart';
+import 'package:ceiba_fund_manager/core/di/injection_container.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_bloc.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_event.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/pages/available_funds_page.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/pages/history_page.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/pages/my_funds_page.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/layouts/app_shell.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';

@@ -1,9 +1,9 @@
-import 'package:ceiba_technical_test/core/di/injection_container.dart';
-import 'package:ceiba_technical_test/core/service/dialog_service.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/subscription.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/cards/subscription_card.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/dialogs/confirm_cancel_dialog.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/grids/base_grid.dart';
+import 'package:ceiba_fund_manager/core/di/injection_container.dart';
+import 'package:ceiba_fund_manager/core/service/dialog_service.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/subscription.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/cards/subscription_card.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/dialogs/confirm_cancel_dialog.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/grids/base_grid.dart';
 
 class SubscriptionGrid extends BaseGrid {
   SubscriptionGrid({

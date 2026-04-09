@@ -1,5 +1,5 @@
-import 'package:ceiba_technical_test/features/funds/domain/entities/fund.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/cards/base_card.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/fund.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/cards/base_card.dart';
 
 class FundCard extends BaseCard<Fund> {
   FundCard({

@@ -1,9 +1,9 @@
-import 'package:ceiba_technical_test/core/design/theme/app_textstyle.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_bloc.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_event.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_state.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/empty_view.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/grids/subscription_grid.dart';
+import 'package:ceiba_fund_manager/core/design/theme/app_textstyle.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_bloc.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_event.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_state.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/empty_view.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/grids/subscription_grid.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

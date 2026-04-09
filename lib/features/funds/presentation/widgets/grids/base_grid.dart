@@ -1,4 +1,4 @@
-import 'package:ceiba_technical_test/core/design/breakpoints/responsive_context.dart';
+import 'package:ceiba_fund_manager/core/design/breakpoints/responsive_context.dart';
 import 'package:flutter/material.dart';
 
 class BaseGrid<T> extends StatelessWidget {

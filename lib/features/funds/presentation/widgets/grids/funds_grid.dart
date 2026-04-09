@@ -1,10 +1,10 @@
-import 'package:ceiba_technical_test/core/di/injection_container.dart';
-import 'package:ceiba_technical_test/core/service/dialog_service.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/fund.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/transaction.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/cards/funds_card.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/dialogs/subscribe_dialog.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/grids/base_grid.dart';
+import 'package:ceiba_fund_manager/core/di/injection_container.dart';
+import 'package:ceiba_fund_manager/core/service/dialog_service.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/fund.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/transaction.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/cards/funds_card.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/dialogs/subscribe_dialog.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/grids/base_grid.dart';
 
 class FundsGrid extends BaseGrid<Fund> {
   FundsGrid({

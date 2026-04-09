@@ -1,10 +1,10 @@
-import 'package:ceiba_technical_test/core/design/theme/app_color.dart';
-import 'package:ceiba_technical_test/core/design/theme/app_textstyle.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_bloc.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_state.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/layouts/sidebar/saldo_card.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/layouts/sidebar/sidebar_nav_item.dart';
-import 'package:ceiba_technical_test/routing/app_router.dart';
+import 'package:ceiba_fund_manager/core/design/theme/app_color.dart';
+import 'package:ceiba_fund_manager/core/design/theme/app_textstyle.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_bloc.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_state.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/layouts/sidebar/saldo_card.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/layouts/sidebar/sidebar_nav_item.dart';
+import 'package:ceiba_fund_manager/routing/app_router.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

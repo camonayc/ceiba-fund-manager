@@ -1,5 +1,5 @@
-import 'package:ceiba_technical_test/core/design/breakpoints/breakpoints.dart';
-import 'package:ceiba_technical_test/core/design/breakpoints/device_type.dart';
+import 'package:ceiba_fund_manager/core/design/breakpoints/breakpoints.dart';
+import 'package:ceiba_fund_manager/core/design/breakpoints/device_type.dart';
 
 class ResponsiveValue<T> {
   const ResponsiveValue({

@@ -1,5 +1,5 @@
-import 'package:ceiba_technical_test/core/error/failures.dart';
-import 'package:ceiba_technical_test/features/funds/domain/usecases/cancel_subscription_usecase.dart';
+import 'package:ceiba_fund_manager/core/error/failures.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/usecases/cancel_subscription_usecase.dart';
 import 'package:dartz/dartz.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';

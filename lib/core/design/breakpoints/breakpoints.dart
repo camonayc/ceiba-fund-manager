@@ -1,4 +1,4 @@
-import 'package:ceiba_technical_test/core/design/breakpoints/device_type.dart';
+import 'package:ceiba_fund_manager/core/design/breakpoints/device_type.dart';
 
 abstract final class Breakpoints {
   static const double mobile = 0;

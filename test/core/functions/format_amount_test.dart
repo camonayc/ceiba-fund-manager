@@ -1,4 +1,4 @@
-import 'package:ceiba_technical_test/core/functions/format_amount.dart';
+import 'package:ceiba_fund_manager/core/functions/format_amount.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

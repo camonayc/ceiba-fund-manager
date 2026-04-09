@@ -1,9 +1,9 @@
-import 'package:ceiba_technical_test/core/design/theme/app_color.dart';
-import 'package:ceiba_technical_test/core/design/theme/app_textstyle.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/fund.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/transaction.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/dialogs/base_dialog.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/dialogs/dialog_actions.dart';
+import 'package:ceiba_fund_manager/core/design/theme/app_color.dart';
+import 'package:ceiba_fund_manager/core/design/theme/app_textstyle.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/fund.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/transaction.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/dialogs/base_dialog.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/dialogs/dialog_actions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:go_router/go_router.dart';

@@ -1,9 +1,9 @@
 import 'package:bloc_test/bloc_test.dart';
-import 'package:ceiba_technical_test/core/error/failures.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/transaction.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_bloc.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_event.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_state.dart';
+import 'package:ceiba_fund_manager/core/error/failures.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/transaction.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_bloc.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_event.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_state.dart';
 import 'package:dartz/dartz.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';

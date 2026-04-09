@@ -1,6 +1,6 @@
-import 'package:ceiba_technical_test/core/design/theme/app_color.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/subscription.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/widgets/cards/base_card.dart';
+import 'package:ceiba_fund_manager/core/design/theme/app_color.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/subscription.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/widgets/cards/base_card.dart';
 import 'package:flutter/material.dart';
 
 class SubscriptionCard extends BaseCard<Subscription> {

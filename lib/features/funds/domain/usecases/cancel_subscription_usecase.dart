@@ -1,5 +1,5 @@
-import 'package:ceiba_technical_test/core/error/failures.dart';
-import 'package:ceiba_technical_test/features/funds/domain/repositories/funds_repository.dart';
+import 'package:ceiba_fund_manager/core/error/failures.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/repositories/funds_repository.dart';
 import 'package:dartz/dartz.dart';
 
 class CancelSubscriptionUseCase {

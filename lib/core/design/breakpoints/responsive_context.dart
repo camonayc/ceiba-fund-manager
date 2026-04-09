@@ -1,6 +1,6 @@
-import 'package:ceiba_technical_test/core/design/breakpoints/breakpoints.dart';
-import 'package:ceiba_technical_test/core/design/breakpoints/device_type.dart';
-import 'package:ceiba_technical_test/core/design/breakpoints/responsive_value.dart';
+import 'package:ceiba_fund_manager/core/design/breakpoints/breakpoints.dart';
+import 'package:ceiba_fund_manager/core/design/breakpoints/device_type.dart';
+import 'package:ceiba_fund_manager/core/design/breakpoints/responsive_value.dart';
 import 'package:flutter/widgets.dart';
 
 extension ResponsiveContext on BuildContext {

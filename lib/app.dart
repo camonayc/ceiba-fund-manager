@@ -1,7 +1,7 @@
-import 'package:ceiba_technical_test/core/design/theme/app_theme.dart';
-import 'package:ceiba_technical_test/core/di/injection_container.dart';
-import 'package:ceiba_technical_test/core/service/dialog_service.dart';
-import 'package:ceiba_technical_test/routing/app_router.dart';
+import 'package:ceiba_fund_manager/core/design/theme/app_theme.dart';
+import 'package:ceiba_fund_manager/core/di/injection_container.dart';
+import 'package:ceiba_fund_manager/core/service/dialog_service.dart';
+import 'package:ceiba_fund_manager/routing/app_router.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {

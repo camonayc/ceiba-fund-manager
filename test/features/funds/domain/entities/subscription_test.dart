@@ -1,4 +1,4 @@
-import 'package:ceiba_technical_test/features/funds/domain/entities/subscription.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/subscription.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

@@ -1,7 +1,7 @@
-import 'package:ceiba_technical_test/core/error/exceptions.dart';
-import 'package:ceiba_technical_test/features/funds/data/data_sources/funds_local_datasource.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/fund.dart';
-import 'package:ceiba_technical_test/features/funds/domain/entities/transaction.dart';
+import 'package:ceiba_fund_manager/core/error/exceptions.dart';
+import 'package:ceiba_fund_manager/features/funds/data/data_sources/funds_local_datasource.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/fund.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/transaction.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

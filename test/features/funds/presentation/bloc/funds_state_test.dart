@@ -1,5 +1,5 @@
-import 'package:ceiba_technical_test/features/funds/domain/entities/subscription.dart';
-import 'package:ceiba_technical_test/features/funds/presentation/bloc/funds_state.dart';
+import 'package:ceiba_fund_manager/features/funds/domain/entities/subscription.dart';
+import 'package:ceiba_fund_manager/features/funds/presentation/bloc/funds_state.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import '../../../../helpers/test_fixtures.dart';

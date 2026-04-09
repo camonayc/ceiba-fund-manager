@@ -1,5 +1,5 @@
-import 'package:ceiba_technical_test/core/design/theme/app_color.dart';
-import 'package:ceiba_technical_test/core/design/theme/app_textstyle.dart';
+import 'package:ceiba_fund_manager/core/design/theme/app_color.dart';
+import 'package:ceiba_fund_manager/core/design/theme/app_textstyle.dart';
 import 'package:flutter/material.dart';
 
 class DialogAction extends StatelessWidget {
